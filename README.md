@@ -32,7 +32,7 @@ Calculator/
 - **Buttons**:
   - Digits: 0–9
   - Operators: +, –, ×, ÷
-  - Clear (`C`), Backspace (`⌫`), Decimal (`.`), Equal (`=`)
+  - Clear (`C`), Backspace (`Back`), Decimal (`.`), Equal (`=`)
 - **Layout**: 
   - Grid-based button layout
   - Styled using CSS with modern UI design principles
@@ -45,9 +45,7 @@ Calculator/
 - `calculate()`: Evaluates the expression using `eval()`
   - Displays "Error" if evaluation fails
 
-## 📷 Screenshot (optional)
 
-> *(Add a screenshot of your calculator UI here if hosting on GitHub)*
 
 ## 🛠️ How to Use
 
